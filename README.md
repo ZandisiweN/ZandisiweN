@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZandisiweN
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning UX/UI design
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on bulding websites,and CSS framework
 - 📫 You can reach me on ndhlovuzandisiwe@gmail.com
 
